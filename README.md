@@ -1,1 +1,1 @@
-simple mobile application using flutter with log in and sign up page using shared preferences authentication , nav-bar , profile page ,dhashboard and API added to quote page 
+simple mobile application using flutter with log in and sign up page using shared preferences authentication , nav-bar , profile page ,dhashboard and API added to quote page . the structure designed using MVVM archticture 
